@@ -1,6 +1,6 @@
 library(shiny)
 library(dplyr)
-library(rCharts)
+
 
 statechoices <- as.character(unique(cost$StateOrDistrict))
 
